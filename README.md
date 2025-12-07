@@ -66,30 +66,13 @@ The PowerBI dashboard consists of:
 - Highlights improvements & regressions  
 
 Screenshots are available in the folder:  
-`/powerbi/screenshots/`
-
----
-
-## 📂 **Repository Structure**
-
-```
-athletic-performance-analysis/
-│
-├── data/
-│   ├── raw/
-│
-├── report/
-│   ├── Performance Report.pbix
-│
-└── README.md
-```
+`/reports/screenshots/`
 
 ---
 
 ## **How to Use This Project**
 
-1. Download the **PBIX file** from `/powerbi/`  
-   *(or use the Google Drive link if the file exceeds GitHub size limit)*  
+1. Download the **PBIX file** from `/reports/`   
 2. Open in **PowerBI Desktop**  
 3. Explore dashboards: player comparisons, positional metrics, z-score insights  
 4. Modify data or visuals as required for research or coaching needs  
