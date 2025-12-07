@@ -35,6 +35,8 @@ The dataset contains the following variables:
 | **Z-SCORE**   | Standardised performance score based on team distribution |
 | **PERCENTILE** | Percentile ranking of the athlete compared to the team |
 
+The dataset can be found in `/data/Peak Power.pbix/`
+
 ---
 
 ## **Tools & Technologies**
