@@ -35,7 +35,7 @@ The dataset contains the following variables:
 | **Z-SCORE**   | Standardised performance score based on team distribution |
 | **PERCENTILE** | Percentile ranking of the athlete compared to the team |
 
-The dataset can be found in `/data/Peak Power.pbix/`
+The dataset can be found in `/data/Peak Power.pbix`
 
 ---
 
@@ -74,7 +74,7 @@ Screenshots are available in the folder:
 
 ## **How to Use This Project**
 
-1. Download the **PBIX file** from `/reports/`   
+1. Download the **PBIX file** from `/reports/powerbi/`   
 2. Open in **PowerBI Desktop**  
 3. Explore dashboards: player comparisons, positional metrics, z-score insights  
 4. Modify data or visuals as required for research or coaching needs  
