@@ -77,19 +77,9 @@ athletic-performance-analysis/
 │
 ├── data/
 │   ├── raw/
-│   ├── cleaned/
-│
-├── powerbi/
-│   ├── rugby_analysis.pbix
-│   ├── screenshots/
 │
 ├── report/
-│   ├── rugby_performance_report.pdf
-│   ├── findings_summary.md
-│
-├── scripts/
-│   ├── data_dictionary.md
-│   ├── preprocessing_notes.md
+│   ├── Performance Report.pbix
 │
 └── README.md
 ```
